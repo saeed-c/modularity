@@ -1,0 +1,7 @@
+C:\Users\1357625\Desktop\U16_Modular_Calculator\U16_Modular_Calculator\obj\Debug\U16_Modular_Calculator.csprojAssemblyReference.cache
+C:\Users\1357625\Desktop\U16_Modular_Calculator\U16_Modular_Calculator\obj\Debug\U16_Modular_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\1357625\Desktop\U16_Modular_Calculator\U16_Modular_Calculator\bin\Debug\U16_Modular_Calculator.exe.config
+C:\Users\1357625\Desktop\U16_Modular_Calculator\U16_Modular_Calculator\bin\Debug\U16_Modular_Calculator.exe
+C:\Users\1357625\Desktop\U16_Modular_Calculator\U16_Modular_Calculator\bin\Debug\U16_Modular_Calculator.pdb
+C:\Users\1357625\Desktop\U16_Modular_Calculator\U16_Modular_Calculator\obj\Debug\U16_Modular_Calculator.exe
+C:\Users\1357625\Desktop\U16_Modular_Calculator\U16_Modular_Calculator\obj\Debug\U16_Modular_Calculator.pdb
